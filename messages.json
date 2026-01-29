@@ -1,37 +1,7 @@
 [
   {
-    "username": "PersistenceTest",
-    "message": "Testing 123",
-    "timestamp": 1769663021878
-  },
-  {
-    "username": "ballsdeep",
-    "message": "test",
-    "timestamp": 1769663110096
-  },
-  {
-    "username": "User2",
-    "message": "Second test message",
-    "timestamp": 1769663117281
-  },
-  {
-    "username": "User3",
-    "message": "Third test with persistence!",
-    "timestamp": 1769663117294
-  },
-  {
-    "username": "ballsdeep",
-    "message": "this is so cool",
-    "timestamp": 1769663659956
-  },
-  {
-    "username": "ballsdeep",
-    "message": "fuck shit ass",
-    "timestamp": 1769663663358
-  },
-  {
-    "username": "ballsdeep",
-    "message": "hmmmmm",
-    "timestamp": 1769663668307
+    "username": "WelcomeBot",
+    "message": "🎮 Welcome to the 80s Retro-Futuristic Shoutbox! 🌐✨",
+    "timestamp": 1769669877087
   }
 ]
